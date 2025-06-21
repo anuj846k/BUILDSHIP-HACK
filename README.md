@@ -78,7 +78,7 @@ Our serverless workflow includes:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/sahara-ai.git
+   git clone https://github.com/anuj846k/sahara-ai.git
    cd sahara-ai/frontend
    ```
 
